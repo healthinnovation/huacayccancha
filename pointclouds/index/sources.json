@@ -1,0 +1,1 @@
+{"bounds":{"min":[859656.7,8506130.9,3448.4],"max":[861149.4,8507869.5,3816.0]},"projection":"+proj=utm +zone=18 +south +datum=WGS84 +units=m +no_defs","sources":[{"name":"huacayccancha_hexagono1_cloud.laz","points":654569,"bounds":{"min":[859656.7,8506130.9,3448.4],"max":[861149.4,8507869.5,3816.0]}}]}
